@@ -30,3 +30,4 @@ RefactoringAction 1444829071558 BowlingGame.java REMOVE Frameturn/2 FIELD
 CompilationAction 1444829325386 Frame.java
 CompilationAction 1444829325387 Frame.java
 EditAction 1444829329596 BowlingGame.java 798 6 6 0
+FileOpenedAction 1444829476849 TestSudokuVerifier.java 1257 4 8 4
