@@ -22,7 +22,9 @@ public class Frame {
 				score+=10+bonus(roll);
 				roll++;
 			}
-		
+			else{
+				score+=firstThrow+secondThrow;
+			}
 		}
 		return score;
 	}
@@ -47,7 +49,6 @@ public class Frame {
 
 	//bonus throws
 	public int bonus(int m){
-
 		return 0;
 	}
 }

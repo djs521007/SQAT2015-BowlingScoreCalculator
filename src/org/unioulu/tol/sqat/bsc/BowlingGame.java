@@ -10,8 +10,7 @@ public class BowlingGame {
 	private Frame bonus;
 	public static void main(String arg[]){
 		BowlingGame bg=new BowlingGame();
-		Frame fe=new Frame(0, 0);
-		
+		Frame fe=new Frame(0, 0);	
 		bg.addFrame(null);//ready to start
 	}
 	public BowlingGame(){
@@ -19,7 +18,6 @@ public class BowlingGame {
 	}
 	
 	public void addFrame(Frame frame){
-		//to be implemented
 	}
 	
 	public void setBonus(int firstThrow, int secondThrow) {
