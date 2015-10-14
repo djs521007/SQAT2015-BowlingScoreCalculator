@@ -1,0 +1,15 @@
+FileOpenedAction 1444822308743 TestBowlingScoreCalculator.java 223 1 1 0
+FileOpenedAction 1444822394811 TestSudokuVerifier.java 1257 4 8 4
+FileOpenedAction 1444822583722 SudokuVerifier.java 3693 10 31 0
+FileOpenedAction 1444824014856 SudokuVerifier.java 3693 10 31 0
+RefactoringAction 1444826235676 BowlingGame.java ADD void man FIELD
+RefactoringAction 1444826237189 BowlingGame.java RENAME man=>void main FIELD
+RefactoringAction 1444826288715 BowlingGame.java RENAME main=>static void main() METHOD
+RefactoringAction 1444826295244 BowlingGame.java RENAME main()=>static void main(String) METHOD
+RefactoringAction 1444826299774 BowlingGame.java RENAME main(String)=>static void main() METHOD
+RefactoringAction 1444826303291 BowlingGame.java RENAME main(String)=>static void main(String METHOD
+RefactoringAction 1444826936094 Frame.java RENAME isStrike()=>boolean isStrike(int) METHOD
+RefactoringAction 1444826938101 Frame.java RENAME isStrike(int)=>boolean isStrike() METHOD
+RefactoringAction 1444826941110 Frame.java RENAME isStrike()=>boolean isStrike(int) METHOD
+RefactoringAction 1444827271793 Frame.java RENAME isStrike(int)=>boolean isStrike() METHOD
+EditAction 1444827458643 TestBowlingScoreCalculator.java 225 1 1 0
