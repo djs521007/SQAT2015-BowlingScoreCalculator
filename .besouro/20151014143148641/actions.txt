@@ -13,3 +13,20 @@ RefactoringAction 1444826938101 Frame.java RENAME isStrike(int)=>boolean isStrik
 RefactoringAction 1444826941110 Frame.java RENAME isStrike()=>boolean isStrike(int) METHOD
 RefactoringAction 1444827271793 Frame.java RENAME isStrike(int)=>boolean isStrike() METHOD
 EditAction 1444827458643 TestBowlingScoreCalculator.java 225 1 1 0
+RefactoringAction 1444827749335 Frame.java ADD int Frameturn FIELD
+RefactoringAction 1444827774175 Frame.java REMOVE Frameturn FIELD
+RefactoringAction 1444827777735 BowlingGame.java ADD int Frameturn FIELD
+CompilationAction 1444828383480 Frame.java
+CompilationAction 1444828383480 Frame.java
+CompilationAction 1444828383481 Frame.java
+RefactoringAction 1444828429224 BowlingGame.java ADD int Frameturn/2 FIELD
+RefactoringAction 1444828434257 BowlingGame.java REMOVE Frameturn/2 FIELD
+RefactoringAction 1444828536621 Frame.java RENAME score()=>int score(int) METHOD
+RefactoringAction 1444828828205 Frame.java RENAME bonus()=>int bonus(int) METHOD
+RefactoringAction 1444828875288 Frame.java RENAME bonus(int)=>int bonus() METHOD
+RefactoringAction 1444828939988 Frame.java RENAME bonus()=>int bonus(int) METHOD
+RefactoringAction 1444829056728 BowlingGame.java ADD int Frameturn/2 FIELD
+RefactoringAction 1444829071558 BowlingGame.java REMOVE Frameturn/2 FIELD
+CompilationAction 1444829325386 Frame.java
+CompilationAction 1444829325387 Frame.java
+EditAction 1444829329596 BowlingGame.java 798 6 6 0
