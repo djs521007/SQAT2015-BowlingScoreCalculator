@@ -32,3 +32,4 @@ CompilationAction 1444829325387 Frame.java
 EditAction 1444829329596 BowlingGame.java 798 6 6 0
 FileOpenedAction 1444829476849 TestSudokuVerifier.java 1257 4 8 4
 EditAction 1444829840362 BowlingGame.java 772 6 6 0
+FileOpenedAction 1444830137026 SudokuVerifier.java 3693 10 31 0

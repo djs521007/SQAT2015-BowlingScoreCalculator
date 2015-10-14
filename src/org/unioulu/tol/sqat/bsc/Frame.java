@@ -49,6 +49,7 @@ public class Frame {
 
 	//bonus throws
 	public int bonus(int m){
+		
 		return 0;
 	}
 }
